@@ -1,6 +1,6 @@
 {
   "name": "varensia",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -8,6 +8,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "daming": "^1.1.5",
     "dianabunga": "^1.1.6",
     "gunandi": "^1.1.6",
     "johirin": "^1.1.5",
